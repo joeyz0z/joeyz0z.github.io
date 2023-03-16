@@ -8,7 +8,7 @@ I am a Ph.D. student at Xidian University.
 
 ## Research Interests
 
-- **Computer Vision:** image captioning, video captioning
+- **Computer Vision:** image captioning, video captioning, visual and language
 - **Machine Learning:** Reinforcement learning
 
 ## News
