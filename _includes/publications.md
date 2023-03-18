@@ -23,6 +23,28 @@
 </div>
 </li>
   
+  
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ConZIC.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IJCV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2105.04143.pdf">Matching Visual Features to Hierarchical Semantic Topics for
+Image Paragraph Captioning</a></div>
+    <div class="author">Dandan Guo*</strong>, Ruiying Lu*, Bo Chen, <strong>Zequn Zeng, Mingyuan Zhou</div>
+    <div class="periodical"><em> International Journal of Computer Vision<strong>(IJCV)</strong>, 2022.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2105.04143.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/DandanGuo1993/VTCM-based-image-paragraph-caption" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+  
 <br>
 
 </ol>
