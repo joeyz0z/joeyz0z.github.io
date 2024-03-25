@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Xidian University. My PhD advisor is Prof. Bo Chen. My long-term research goal is to build an explainable multi-modality cognition system in which machines can reason, make logical decisions, and generate content like humans. My current research lies in multi-modality understanding and generation.
+I am a Ph.D. student at Xidian University and advised by Prof. Bo Chen. My long-term research goal is to build an explainable multi-modality cognition system in which machines can reason, make logical decisions, and generate content like humans. My current research lies in multi-modality understanding and generation.
 
 ## Research Interests
 My current research lies in multi-modality understanding and generation. My research areas involve:
