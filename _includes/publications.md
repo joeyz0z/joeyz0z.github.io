@@ -34,7 +34,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2307.09066.pdf">PatchCT: Aligning Patch Set and Label Set with Conditional Transport
 for Multi-Label Image Classification</a></div>
-        <div class="author">Miaoge Li, Dongsheng Wang, Xinyang Liu, <strong>Zequn Zeng<strong>, Ruiying Lu, Bo Chen</div>
+        <div class="author">Miaoge Li, Dongsheng Wang, Xinyang Liu, <strong>Zequn Zeng</strong>, Ruiying Lu, Bo Chen</div>
     <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2307.09066.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
