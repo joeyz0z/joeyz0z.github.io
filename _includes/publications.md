@@ -7,6 +7,26 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/hice.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ACM MM</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2403.03715.pdf">HICEScore: A Hierarchical Metric for Image Captioning Evaluation</a></div>
+    <div class="author"><strong>Zequn Zeng</strong>, Jiaoqiao Sun, Hao Zhang, Tiansheng Wen, Yudi Su, Yan Xie, Zhengjue Wang, Bo Chen</div>
+    <div class="periodical"><em>ACM Multimedia <strong>(ACM MM)</strong>, 2024</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2407.18589" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/joeyz0z/HICE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/MeaCap.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>

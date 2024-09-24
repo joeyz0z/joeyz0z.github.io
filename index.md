@@ -11,12 +11,14 @@ My current research lies in multi-modality understanding and generation. My rese
 - **Image-to-text understanding:** visual captioning, VQA, prompt learning in vision-and-language models
 - **Text-to-image synthesizing:** image editing, visual diffusion models
 - **Knowledge-aware machine learning:** retrieval-augmented generation, knowledge-enhancement
+- **Remote sensing foundation models:** vision foundation models for multi-modality remote sensing tasks
 
 ## News
-- **[Mar. 2024]** Our paper about memory-augmented image captioning is accepted to CVPR 20241
-- **[July. 2023]** Our paper about multi-Label image classification is accepted to ICCV 2023!
-- **[Mar. 2023]** Our paper about zero-shot image captioning is accepted to CVPR 2023!
-- **[Feb. 2022]** Our paper about image paragraphing is accepted to IJCV 2022!
+- **[July. 2024]** Our paper about image captioning evaluation is accepted to ACM MM2024!
+- **[Mar. 2024]** Our paper about memory-augmented image captioning is accepted to CVPR2024!
+- **[July. 2023]** Our paper about multi-Label image classification is accepted to ICCV2023!
+- **[Mar. 2023]** Our paper about zero-shot image captioning is accepted to CVPR2023!
+- **[Feb. 2022]** Our paper about image paragraphing is accepted to IJCV2022!
 
 {% include_relative _includes/publications.md %}
 
