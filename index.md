@@ -8,10 +8,10 @@ I am a Ph.D. student at Xidian University and advised by Prof. [Bo Chen](https:/
 
 ## Research Interests
 My current research lies in multi-modality understanding and generation. My research areas involve:
-- **Image-to-text understanding:** visual captioning, VQA, prompt learning in vision-and-language models
-- **Text-to-image synthesizing:** image editing, visual diffusion models
+- **Image-to-text understanding:** VLM, visual captioning, VQA, prompt learning in vision-and-language models
 - **Knowledge-aware machine learning:** retrieval-augmented generation, knowledge-enhancement
 - **Remote sensing foundation models:** vision foundation models for multi-modality remote sensing tasks
+- **Cross-modality image synthesizing:** SAR-to-optical generation
 
 ## News
 - **[July. 2024]** Our paper about image captioning evaluation is accepted to ACM MM2024!
